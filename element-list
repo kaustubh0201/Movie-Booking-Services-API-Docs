@@ -1,0 +1,13 @@
+com.project.moviebooking
+com.project.moviebooking.component
+com.project.moviebooking.config
+com.project.moviebooking.constant
+com.project.moviebooking.constraint
+com.project.moviebooking.controller
+com.project.moviebooking.dto
+com.project.moviebooking.exception
+com.project.moviebooking.model
+com.project.moviebooking.repository
+com.project.moviebooking.service
+com.project.moviebooking.service.impl
+com.project.moviebooking.util
